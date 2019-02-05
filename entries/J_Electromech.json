@@ -1,0 +1,31 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "content": {
+            "keywords": [
+                "paper", 
+                "Journal of Electrochemical Society", 
+                "Li-ion cell", 
+                "Li-ion battery", 
+                "ethylene carbonate-free electrolyte", 
+                "vinylene carbonate", 
+                "fluoroethylene carbonate"
+            ], 
+            "date": "2017-11-17", 
+            "contributors": [
+                "Lin Ma", 
+                "S. L. Glazier", 
+                "R. Petibon", 
+                "Jian Xia", 
+                "Jeremy M. Peters", 
+                "Q. Liu", 
+                "J. Allen", 
+                "R. N. C. Doig", 
+                "J. R. Dahn"
+            ], 
+            "title": "A Guide to Ethylene Carbonate-Free Electrolyte Making for Li-Ion Cells"
+        }, 
+        "visible_to": ["public"],
+        "subject": "globus://e56c36e4-1063-11e6-a747-22000bf2d559/data/papers/J_Electrochem.pdf"
+    }
+}

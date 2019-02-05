@@ -1,0 +1,20 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "content": {
+            "keywords": [
+                "data", 
+                "credit-to-GDP ratio",
+                "national debt", 
+                "gross domestic product"
+            ], 
+            "date": "2018-02-15", 
+            "contributors": [
+                "Bank for International Settlements"
+            ], 
+            "title": "Credit-to-GDP gaps"
+        }, 
+        "visible_to": ["public"],
+        "subject": "globus://e56c36e4-1063-11e6-a747-22000bf2d559/data/finance/WEBSTATS_CREDIT_GAP_DATAFLOW_csv_col.csv"
+    }
+}

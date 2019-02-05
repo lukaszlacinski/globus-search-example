@@ -1,0 +1,23 @@
+{
+    "ingest_type": "GMetaEntry", 
+    "ingest_data": {
+        "content": {
+            "keywords": [
+                "Chicago Tribune", 
+                "Chicago Bears", 
+                "football", 
+                "Super Bowl", 
+                "Jim McMahon", 
+                "Mike Ditka"
+            ], 
+            "date": "1986-01-27", 
+            "contributors": [
+                "Patrick Reardon", 
+                "Andrew Bagnato"
+            ], 
+            "title": "Bears bring it home"
+        },
+        "visible_to": ["public"],
+        "subject": "globus://e56c36e4-1063-11e6-a747-22000bf2d559/data/papers/clipping_10428027.pdf"
+    }
+}

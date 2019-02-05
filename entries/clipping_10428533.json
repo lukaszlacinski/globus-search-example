@@ -1,0 +1,21 @@
+{
+    "ingest_type": "GMetaEntry", 
+    "ingest_data": {
+        "content": {
+            "keywords": [
+                "Chicago Tribune", 
+                "Chicago Cubs", 
+                "baseball", 
+                "World Series"
+            ], 
+            "date": "2016-11-03", 
+            "contributors": [
+                "Paul Sullivan", 
+                "Brian Cassella"
+            ], 
+            "title": "At last!"
+        }, 
+        "visible_to": ["public"],
+        "subject": "globus://e56c36e4-1063-11e6-a747-22000bf2d559/data/papers/clipping_10428533.pdf"
+    }
+}

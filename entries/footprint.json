@@ -1,0 +1,24 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "content": {
+            "keywords": [
+                "paper", 
+                "Canadian Field-Naturalist", 
+                "DNA", 
+                "forensic", 
+                "footprint"
+            ], 
+            "date": "2008-07-15", 
+            "contributors": [
+                "Love Dalen", 
+                "Anders Gotherstrom", 
+                "Tomas Meijer", 
+                "Beth Shapiro"
+            ], 
+            "title": "Recovery of DNA from Footprints in the Snow"
+        }, 
+        "visible_to": ["public"],
+        "subject": "globus://e56c36e4-1063-11e6-a747-22000bf2d559/data/papers/footprint.pdf"
+    }
+}

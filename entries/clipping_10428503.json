@@ -1,0 +1,21 @@
+{
+    "ingest_type": "GMetaEntry", 
+    "ingest_data": {
+        "content": {
+            "keywords": [
+                "Chicago Tribune", 
+                "Blackhawks", 
+                "hockey", 
+                "Stanley Cup"
+            ], 
+            "date": "2015-06-16", 
+            "contributors": [
+                "David Haugh", 
+                "Brian Cassella"
+            ], 
+            "title": "HAT TRICK"
+        }, 
+        "visible_to": ["public"],
+        "subject": "globus://e56c36e4-1063-11e6-a747-22000bf2d559/data/papers/clipping_10428503.pdf"
+    }
+}
