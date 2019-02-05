@@ -1,0 +1,17 @@
+{
+    "q": "*",
+    "facets": [
+        {
+            "name": "contributors",
+            "field_name": "contributors",
+            "type": "terms"
+        },
+        {
+            "name": "Year",
+            "field_name": "date",
+            "type": "date_histogram",
+            "date_interval": "year",
+            "histogram_range": {"low": "1900-01-01", "high": "2020-01-01"}
+        }
+    ]
+}
