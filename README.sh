@@ -1,6 +1,6 @@
 #!/bin/bash
 # Run it in the current shell environment:
-#       source README.txt
+#       source README.sh
 # and then use $index in command line, e.g.:
 #       globus-search query $index '*'
 #       curl "https://search.api.globus.org/v1/index/$index/search?q=*" | python -mjson.tool
